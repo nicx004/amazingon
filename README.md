@@ -24,5 +24,5 @@ A database-driven application developed as part of the DBMS course. This project
 
 ---
 
-## 🗂️ Project Structure
+
 
